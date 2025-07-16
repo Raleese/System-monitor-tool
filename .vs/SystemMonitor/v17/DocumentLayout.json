@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Programming\\Liudnos vasaros dienos\\SystemMonitor\\",
+  "WorkspaceRootPath": "C:\\Programming\\Summer\\SystemMonitor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E9BA0BC-03D2-428D-AF3E-0E7B199899F8}|SystemMonitor\\SystemMonitor.csproj|c:\\programming\\liudnos vasaros dienos\\systemmonitor\\systemmonitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E9BA0BC-03D2-428D-AF3E-0E7B199899F8}|SystemMonitor\\SystemMonitor.csproj|solutionrelative:systemmonitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E9BA0BC-03D2-428D-AF3E-0E7B199899F8}|SystemMonitor\\SystemMonitor.csproj|C:\\Programming\\Summer\\SystemMonitor\\systemmonitor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E9BA0BC-03D2-428D-AF3E-0E7B199899F8}|SystemMonitor\\SystemMonitor.csproj|solutionrelative:systemmonitor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E9BA0BC-03D2-428D-AF3E-0E7B199899F8}|SystemMonitor\\SystemMonitor.csproj|c:\\programming\\liudnos vasaros dienos\\systemmonitor\\systemmonitor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3E9BA0BC-03D2-428D-AF3E-0E7B199899F8}|SystemMonitor\\SystemMonitor.csproj|solutionrelative:systemmonitor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3E9BA0BC-03D2-428D-AF3E-0E7B199899F8}|SystemMonitor\\SystemMonitor.csproj|c:\\programming\\summer\\systemmonitor\\systemmonitor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9BA0BC-03D2-428D-AF3E-0E7B199899F8}|SystemMonitor\\SystemMonitor.csproj|solutionrelative:systemmonitor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9BA0BC-03D2-428D-AF3E-0E7B199899F8}|SystemMonitor\\SystemMonitor.csproj|c:\\programming\\summer\\systemmonitor\\systemmonitor\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3E9BA0BC-03D2-428D-AF3E-0E7B199899F8}|SystemMonitor\\SystemMonitor.csproj|solutionrelative:systemmonitor\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9BA0BC-03D2-428D-AF3E-0E7B199899F8}|SystemMonitor\\SystemMonitor.csproj|c:\\programming\\summer\\systemmonitor\\systemmonitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9BA0BC-03D2-428D-AF3E-0E7B199899F8}|SystemMonitor\\SystemMonitor.csproj|solutionrelative:systemmonitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +26,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Programming\\Summer\\SystemMonitor\\SystemMonitor\\App.config",
+              "RelativeDocumentMoniker": "SystemMonitor\\App.config",
+              "ToolTip": "C:\\Programming\\Summer\\SystemMonitor\\SystemMonitor\\App.config",
+              "RelativeToolTip": "SystemMonitor\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-16T09:41:20.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Programming\\Summer\\SystemMonitor\\SystemMonitor\\Form1.cs",
+              "RelativeDocumentMoniker": "SystemMonitor\\Form1.cs",
+              "ToolTip": "C:\\Programming\\Summer\\SystemMonitor\\SystemMonitor\\Form1.cs",
+              "RelativeToolTip": "SystemMonitor\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T09:37:52.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Programming\\Liudnos vasaros dienos\\SystemMonitor\\SystemMonitor\\Program.cs",
+              "DocumentMoniker": "C:\\Programming\\Summer\\SystemMonitor\\SystemMonitor\\Program.cs",
               "RelativeDocumentMoniker": "SystemMonitor\\Program.cs",
-              "ToolTip": "C:\\Programming\\Liudnos vasaros dienos\\SystemMonitor\\SystemMonitor\\Program.cs",
+              "ToolTip": "C:\\Programming\\Summer\\SystemMonitor\\SystemMonitor\\Program.cs",
               "RelativeToolTip": "SystemMonitor\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -35,11 +69,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Programming\\Liudnos vasaros dienos\\SystemMonitor\\SystemMonitor\\Form1.cs",
+              "DocumentMoniker": "C:\\Programming\\Summer\\SystemMonitor\\SystemMonitor\\Form1.cs",
               "RelativeDocumentMoniker": "SystemMonitor\\Form1.cs",
-              "ToolTip": "C:\\Programming\\Liudnos vasaros dienos\\SystemMonitor\\SystemMonitor\\Form1.cs [Design]",
+              "ToolTip": "C:\\Programming\\Summer\\SystemMonitor\\SystemMonitor\\Form1.cs [Design]",
               "RelativeToolTip": "SystemMonitor\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-16T00:20:48.657Z",

@@ -1,0 +1,10 @@
+C:\Programming\Summer\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.exe.config
+C:\Programming\Summer\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.exe
+C:\Programming\Summer\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.pdb
+C:\Programming\Summer\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.csproj.AssemblyReference.cache
+C:\Programming\Summer\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.Form1.resources
+C:\Programming\Summer\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.Properties.Resources.resources
+C:\Programming\Summer\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.csproj.GenerateResource.cache
+C:\Programming\Summer\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.csproj.CoreCompileInputs.cache
+C:\Programming\Summer\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.exe
+C:\Programming\Summer\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.pdb
